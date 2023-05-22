@@ -82,7 +82,8 @@ public class GameModel {
 // ----------------------------- Игровой процесс ----------------------------
     
     public void start(){
-        
+        //nineth commit
+		//still nineth
         // Генерируем поле
         generateField();
         
