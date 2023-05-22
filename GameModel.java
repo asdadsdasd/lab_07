@@ -19,7 +19,7 @@ import xzero.model.navigation.Direction;
 public class GameModel {
     
 // -------------------------------- Поле -------------------------------------
-    //third commit
+    //eight commit
     //!!!
     private GameField gameField = new GameField();
     
