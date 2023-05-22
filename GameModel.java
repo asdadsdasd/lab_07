@@ -35,7 +35,7 @@ public class GameModel {
     public Player activePlayer(){
         return _playerList.get(_activePlayer);
     }
-    
+    //sixth commit
     public GameModel(){
         // Задаем размеры поля по умолчанию
         GameField gameField1 = new GameField();
