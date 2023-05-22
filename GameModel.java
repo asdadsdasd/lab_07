@@ -42,7 +42,8 @@ public class GameModel {
         gameField1.setSize(2, 2);
         Cell cell1 = new Cell();
         gameField1.setCell(new Point(1, 1), cell1);
-
+	//seventh commit
+	//still seventh
         field().setSize(5, 5);
         
         // Создаем двух игроков
