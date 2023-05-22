@@ -231,7 +231,7 @@ public class GameModel {
             ((GameListener)listner).playerExchanged(event);
         }
     }     
-    
+    //smth
 // --------------------- Порождает события, связанные с игроками -------------
     
     // Список слушателей
