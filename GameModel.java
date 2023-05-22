@@ -10,7 +10,7 @@ import xzero.model.events.PlayerActionListener;
 import xzero.model.factory.CellFactory;
 import xzero.model.factory.LabelFactory;
 import xzero.model.navigation.Direction;
-
+//second commit
 /**
 /* Aбстракция всей игры; генерирует стартовую обстановку; поочередно передает 
 * ход игрокам, задавая им метку для установки на поле; следит за игроками с 
